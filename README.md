@@ -13,7 +13,7 @@
   Para executar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório para sua máquina local usando Git ou baixe os arquivos manualmente.
-2.Abra o arquivo index.html em um navegador da web (ou utilizando a extensão live-server)
+2. Abra o arquivo index.html em um navegador da web (ou utilizando a extensão live-server).
 
 # Video do Projeto
 https://github.com/user-attachments/assets/0df11846-dbba-441c-8707-772ee7e932ae
